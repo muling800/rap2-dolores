@@ -1,5 +1,5 @@
 const config: IConfig = {
-  serve: 'http://rap2api.taobao.org',
+  serve: 'http://121.37.246.101:8901',
   keys: ['some secret hurr'],
   session: {
     key: 'koa:sess',
